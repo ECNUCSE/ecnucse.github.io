@@ -1,0 +1,2 @@
+# WELCOME2CSE
+ECNU CSE简介及加入方式
