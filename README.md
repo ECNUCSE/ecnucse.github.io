@@ -1,7 +1,7 @@
 # Welcome to ECNU CSE
 
-[![join us](https://img.shields.io/badge/organization-join-brightgreen)](https://github.com/ECNUCSE/welcome-to-cse/issues/1)
-[![license](https://img.shields.io/badge/license-MIT-green)]()
+[![join us](https://img.shields.io/badge/organization-join-brightgreen)](https://github.com/ECNUCSE/ecnucse.github.io/issues/1)
+[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/ECNUCSE/ecnucse.github.io/blob/main/LICENSE)
 
 欢迎来到ECNU CSE!
 
